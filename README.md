@@ -1,5 +1,4 @@
-# AWS-Cloud-Cost-Optimization-Using-Lambda-Function-Project-Boto3
-An AWS Cloud Cost Optimization project using Lambda and Boto3 involves leveraging serverless functions to automate the identification and cleanup of underutilized or orphaned AWS resources, thereby reducing unnecessary cloud expenditures.
+
 import boto3
 
 def lambda_handler(event, context):
